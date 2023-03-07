@@ -147,17 +147,16 @@ nav {
 	padding-bottom: 1rem;
 	padding-left: 2.5rem;
 	word-spacing: 3rem;
-	transform: none;
 }
 
 nav > a:nth-child(2) {
 	display: inline-block;
 	text-transform: uppercase;
-	transform: rotate(5deg);
 	color: black;
 }
 
 nav > a:nth-child(2):hover {
+	transform: rotate(5deg);
 	text-decoration: line-through;
 }
 
