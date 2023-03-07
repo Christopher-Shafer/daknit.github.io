@@ -139,6 +139,7 @@ h1 {
 
 nav {
 	font-family: Robotoslab, serif;
+	position: inline-block;
 	font-size: 1.5rem;
 	border: solid gray;
 	border-left: none;
