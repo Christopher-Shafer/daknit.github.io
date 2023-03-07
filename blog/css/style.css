@@ -147,11 +147,7 @@ nav {
 	padding-bottom: 1rem;
 	padding-left: 2.5rem;
 	word-spacing: 3rem;
-}
-
-nav > a:nth-child(not(2)) {
 	transform: none;
-	font-size: 6rem;
 }
 
 nav > a:nth-child(2) {
