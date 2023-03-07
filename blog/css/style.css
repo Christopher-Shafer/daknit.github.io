@@ -151,6 +151,7 @@ nav {
 }
 
 nav > a:nth-child(2) {
+	display: inline-block;
 	text-transform: uppercase;
 	transform: rotate(5deg);
 	color: black;
