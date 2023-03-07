@@ -148,6 +148,7 @@ nav {
 	padding-bottom: 1rem;
 	padding-left: 2.5rem;
 	word-spacing: 3rem;
+	transform: rotate(0deg);
 }
 
 nav > a:nth-child(2) {
