@@ -149,6 +149,10 @@ nav {
 	word-spacing: 3rem;
 }
 
+nav > a:nth-child(not(2)) {
+	transform: none;
+}
+
 nav > a:nth-child(2) {
 	display: inline-block;
 	text-transform: uppercase;
