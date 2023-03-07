@@ -126,7 +126,7 @@ a:active {
 
 header {
 	padding-bottom: 2rem;
-	position: relative;
+	position: inline-block;
 	transform: rotate(-5deg);
 }
 
